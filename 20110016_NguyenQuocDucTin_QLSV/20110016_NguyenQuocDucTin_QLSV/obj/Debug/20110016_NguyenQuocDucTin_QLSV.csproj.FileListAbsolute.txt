@@ -1,0 +1,332 @@
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\20110016_NguyenQuocDucTin_QLSV\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week02\Homework\20110016_NguyenQuocDucTin_QLSV (2)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fSearchStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fSearchStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week05 Edit_Remove\Homework\20110016_NguyenQuocDucTin_QLSV (5)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week06 Print and Statistic\Homework\20110016_NguyenQuocDucTin_QLSV (6)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week07 Statistic Continue\Homework\20110016_NguyenQuocDucTin_QLSV (7)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Course.fAddCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Course.fEditCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week08 Courses\Homework\20110016_NguyenQuocDucTin_QLSV (8)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Course.fRemoveCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourse.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditCourse.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageCourse.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintCourse.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveCourse.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddScore.resources
+C:\Users\ADMIN\OneDrive\Desktop\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fADMIN.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListAccountRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fConfirmCode.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fADMIN.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fConfirmCode.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListAccountRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fForgetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fResetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourceForStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fCourseStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week09\Homework\20110016_NguyenQuocDucTin_QLSV (9) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAverageScoreByCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fADMIN.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListAccountRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLoading.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fProfileHumanResourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainHumanResourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAverageScoreByCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fConfirmCode.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fCourseStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fForgetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fResetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourceForStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fADMIN.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListAccountRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLoading.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fProfileHumanResourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainHumanResourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAverageScoreByCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fConfirmCode.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fCourseStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fForgetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fResetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourceForStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fFullListContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fCourseOfContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListCourseOfStudentRegistration.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.ResolveComReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainTeacher.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fNotificationTeacher.resources
+D:\hoc\On school\Term 6\Windows Programming\Week11 HR Part\20110016_NguyenQuocDucTin_QLSV (10) - Copy\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe.config
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\bin\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.AssemblyReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.SuggestedBindingRedirects.cache
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.ResolveComReference.cache
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListCourseOfStudentRegistration.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainTeacher.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fNotificationTeacher.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fCourseOfContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fFullListContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fEditContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddContact.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fADMIN.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fListAccountRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLoading.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fProfileHumanResourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMainHumanResourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAverageScoreByCourse.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fConfirmCode.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fCourseStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fForgetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fResetPassword.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRemoveScore.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddCourceForStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAddStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fMain.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fManageStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fLogin.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fPrintStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fRegister.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStatistic.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fStudentList.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fUpdateDeleteStudent.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.Properties.Resources.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.GenerateResource.cache
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.csproj.CoreCompileInputs.cache
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.exe
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\20110016_NguyenQuocDucTin_QLSV.pdb
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fProfileTeacher.resources
+D:\hoc\On school\Term 6\Windows Programming\Week12 HR Cont\20110016_NguyenQuocDucTin_QLSV (12)\20110016_NguyenQuocDucTin_QLSV\obj\Debug\_20110016_NguyenQuocDucTin_QLSV.fAverageScoreByScore.resources

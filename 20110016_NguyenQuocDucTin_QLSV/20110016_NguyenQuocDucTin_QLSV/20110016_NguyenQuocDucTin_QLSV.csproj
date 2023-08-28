@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66B1F295-BEA7-4751-B7EA-36E3657ACEDC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_20110016_NguyenQuocDucTin_QLSV</RootNamespace>
+    <AssemblyName>20110016_NguyenQuocDucTin_QLSV</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fAverageScoreByScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAverageScoreByScore.Designer.cs">
+      <DependentUpon>fAverageScoreByScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fListCourseOfStudentRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fListCourseOfStudentRegistration.Designer.cs">
+      <DependentUpon>fListCourseOfStudentRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNotificationTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNotificationTeacher.Designer.cs">
+      <DependentUpon>fNotificationTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fProfileTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fProfileTeacher.Designer.cs">
+      <DependentUpon>fProfileTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\fCourseOfContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\fCourseOfContact.Designer.cs">
+      <DependentUpon>fCourseOfContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\fFullListContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\fFullListContact.Designer.cs">
+      <DependentUpon>fFullListContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\Group\Group.cs" />
+    <Compile Include="HumanResourse\Contact\fEditContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\Contact\fEditContact.Designer.cs">
+      <DependentUpon>fEditContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\Contact\fListContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\Contact\fListContact.Designer.cs">
+      <DependentUpon>fListContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\Contact\Contact.cs" />
+    <Compile Include="Course\Course.cs" />
+    <Compile Include="Course\fAddCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course\fAddCourse.Designer.cs">
+      <DependentUpon>fAddCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course\fEditCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course\fEditCourse.Designer.cs">
+      <DependentUpon>fEditCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course\fManageCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course\fManageCourse.Designer.cs">
+      <DependentUpon>fManageCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course\fPrintCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course\fPrintCourse.Designer.cs">
+      <DependentUpon>fPrintCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Course\fRemoveCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course\fRemoveCourse.Designer.cs">
+      <DependentUpon>fRemoveCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\Contact\fAddContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\Contact\fAddContact.Designer.cs">
+      <DependentUpon>fAddContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fHumanResourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fHumanResourse.Designer.cs">
+      <DependentUpon>fHumanResourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fListAccountRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fListAccountRegister.Designer.cs">
+      <DependentUpon>fListAccountRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLoading.Designer.cs">
+      <DependentUpon>fLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\fProfileHumanResourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\fProfileHumanResourse.Designer.cs">
+      <DependentUpon>fProfileHumanResourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HumanResourse\fMainHumanResourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HumanResourse\fMainHumanResourse.Designer.cs">
+      <DependentUpon>fMainHumanResourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMainStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMainStudent.Designer.cs">
+      <DependentUpon>fMainStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMainTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMainTeacher.Designer.cs">
+      <DependentUpon>fMainTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="QLSVDataSetAccountRegisterWaitting.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSetAccountRegisterWaitting.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSetCourseOfContact.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSetCourseOfContact.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSetListContactByGroup.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSetListContactByGroup.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Score\fAverageScoreByCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Score\fAverageScoreByCourse.Designer.cs">
+      <DependentUpon>fAverageScoreByCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCourseStudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCourseStudentList.Designer.cs">
+      <DependentUpon>fCourseStudentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Score\fManageScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Score\fManageScore.Designer.cs">
+      <DependentUpon>fManageScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSetStudent.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSetStudent.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Student\fAddCourceForStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fAddCourceForStudent.Designer.cs">
+      <DependentUpon>fAddCourceForStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fADMIN.Designer.cs">
+      <DependentUpon>fADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fConfirmCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fConfirmCode.Designer.cs">
+      <DependentUpon>fConfirmCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fForgetPassword.Designer.cs">
+      <DependentUpon>fForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fResetPassword.Designer.cs">
+      <DependentUpon>fResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Score\fAddScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Score\fAddScore.Designer.cs">
+      <DependentUpon>fAddScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Score\fRemoveScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Score\fRemoveScore.Designer.cs">
+      <DependentUpon>fRemoveScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Score\Score.cs" />
+    <Compile Include="Student\fAddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fAddStudent.Designer.cs">
+      <DependentUpon>fAddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\fManageStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fManageStudent.Designer.cs">
+      <DependentUpon>fManageStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher.cs" />
+    <Compile Include="User\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\fPrintStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fPrintStudent.Designer.cs">
+      <DependentUpon>fPrintStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\fRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\fRegister.Designer.cs">
+      <DependentUpon>fRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\fStatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fStatistic.Designer.cs">
+      <DependentUpon>fStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\fStudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fStudentList.Designer.cs">
+      <DependentUpon>fStudentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\fUpdateDeleteStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\fUpdateDeleteStudent.Designer.cs">
+      <DependentUpon>fUpdateDeleteStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MY_DB.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLSVDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Student\Student.cs" />
+    <Compile Include="User\User.cs" />
+    <EmbeddedResource Include="Course\fAddCourse.resx">
+      <DependentUpon>fAddCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course\fEditCourse.resx">
+      <DependentUpon>fEditCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course\fManageCourse.resx">
+      <DependentUpon>fManageCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course\fPrintCourse.resx">
+      <DependentUpon>fPrintCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course\fRemoveCourse.resx">
+      <DependentUpon>fRemoveCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAverageScoreByScore.resx">
+      <DependentUpon>fAverageScoreByScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fListCourseOfStudentRegistration.resx">
+      <DependentUpon>fListCourseOfStudentRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMainStudent.resx">
+      <DependentUpon>fMainStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMainTeacher.resx">
+      <DependentUpon>fMainTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNotificationTeacher.resx">
+      <DependentUpon>fNotificationTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fProfileTeacher.resx">
+      <DependentUpon>fProfileTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\fCourseOfContact.resx">
+      <DependentUpon>fCourseOfContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\fFullListContact.resx">
+      <DependentUpon>fFullListContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\Contact\fEditContact.resx">
+      <DependentUpon>fEditContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\Contact\fListContact.resx">
+      <DependentUpon>fListContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\Contact\fAddContact.resx">
+      <DependentUpon>fAddContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fADMIN.resx">
+      <DependentUpon>fADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fListAccountRegister.resx">
+      <DependentUpon>fListAccountRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLoading.resx">
+      <DependentUpon>fLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\fProfileHumanResourse.resx">
+      <DependentUpon>fProfileHumanResourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HumanResourse\fMainHumanResourse.resx">
+      <DependentUpon>fMainHumanResourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Score\fAverageScoreByCourse.resx">
+      <DependentUpon>fAverageScoreByCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fConfirmCode.resx">
+      <DependentUpon>fConfirmCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCourseStudentList.resx">
+      <DependentUpon>fCourseStudentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fForgetPassword.resx">
+      <DependentUpon>fForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Score\fManageScore.resx">
+      <DependentUpon>fManageScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fResetPassword.resx">
+      <DependentUpon>fResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Score\fAddScore.resx">
+      <DependentUpon>fAddScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Score\fRemoveScore.resx">
+      <DependentUpon>fRemoveScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fAddCourceForStudent.resx">
+      <DependentUpon>fAddCourceForStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fAddStudent.resx">
+      <DependentUpon>fAddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fManageStudent.resx">
+      <DependentUpon>fManageStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fPrintStudent.resx">
+      <DependentUpon>fPrintStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\fRegister.resx">
+      <DependentUpon>fRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fStatistic.resx">
+      <DependentUpon>fStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fStudentList.resx">
+      <DependentUpon>fStudentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\fUpdateDeleteStudent.resx">
+      <DependentUpon>fUpdateDeleteStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLSVDataSet.xsc">
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet.xss">
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet1.xsc">
+      <DependentUpon>QLSVDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet1.xss">
+      <DependentUpon>QLSVDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet3.xsc">
+      <DependentUpon>QLSVDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet3.xss">
+      <DependentUpon>QLSVDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetAccountRegisterWaitting.xsc">
+      <DependentUpon>QLSVDataSetAccountRegisterWaitting.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetAccountRegisterWaitting.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSetAccountRegisterWaitting.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSetAccountRegisterWaitting.xss">
+      <DependentUpon>QLSVDataSetAccountRegisterWaitting.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetCourseOfContact.xsc">
+      <DependentUpon>QLSVDataSetCourseOfContact.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetCourseOfContact.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSetCourseOfContact.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSetCourseOfContact.xss">
+      <DependentUpon>QLSVDataSetCourseOfContact.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetListContactByGroup.xsc">
+      <DependentUpon>QLSVDataSetListContactByGroup.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetListContactByGroup.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSetListContactByGroup.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSetListContactByGroup.xss">
+      <DependentUpon>QLSVDataSetListContactByGroup.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetStudent.xsc">
+      <DependentUpon>QLSVDataSetStudent.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSetStudent.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSetStudent.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSetStudent.xss">
+      <DependentUpon>QLSVDataSetStudent.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Result\" />
+    <Folder Include="Teacher\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
